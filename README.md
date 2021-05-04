@@ -2,7 +2,7 @@
 
 ## Added Advanced Concepts
 
-* Grouping (Dynamic) - Displaying (10) Top Selling Proucts and Top Profitable Products.
+* Grouping (Dynamic) - Displaying (10) Top Selling Products and Top Profitable Products.
 * Trendline - Showing trendline for Profit or Loss per Product forcing (x, y) intercept in (0, 0).
 * Box Plot - Created box plot for sales and profit per region.
 * Page Animation - Added page animation per year for Box Plots in each individual chart.
@@ -47,7 +47,7 @@ The states with the highest level of return rates are Oregon, Louisiana, Califor
 
 ### Repository and Public Tableau URL's
 
-GitHub Title: Tableau [https://github.com/ivanzapatarivera/Tableau](https://github.com/ivanzapatarivera/Tableau)
+GitHub Title: Tableau [https://github.com/ivanzapatarivera/Tableau_Advanced](https://github.com/ivanzapatarivera/Tableau_Advanced)
 
 Public Tableau URL [https://tabsoft.co/3xnNWgS](https://tabsoft.co/3xnNWgS)
 
